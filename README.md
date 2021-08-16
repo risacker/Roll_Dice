@@ -1,4 +1,4 @@
-# Roll_Dice
+# Roll Dice
 
 A basic app to roll a dice built in kotlin.
 
